@@ -38,7 +38,7 @@ nav a:hover{
 }
 
 .produtos{
-    width: 940px;
+    width: 1000px;
     margin: 0 auto;
     padding: 50px 0;
 }
@@ -238,3 +238,6 @@ td, th{
     margin: 2em auto;
 }
 
+.form-main{
+    margin-left: 100px;
+}
